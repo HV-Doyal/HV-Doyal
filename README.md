@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on coding and gaming
-- 📫 How to reach me ... Discord: _hvd_
+- 📫 How to reach me ... Discord: \_hvd\_
