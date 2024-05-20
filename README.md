@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning C#<br>I am open to work in Development<br>Year 3 Student @ Middlesex University Mauritius<br><br>
+I'm currently learning C#<br>Intern developer @ Dayforce Mauritius<br>Year 3 Student @ Middlesex University Mauritius<br><br>
 
 
 ## 🌐 Socials:
