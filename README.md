@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently learning C#<br>Intern developer @ Year 3 Student @ Middlesex University Mauritius<br><br>
+Intern developer @ Year 3 Student @ Middlesex University Mauritius<br><br>
 
 
 ## 🌐 Socials:
@@ -12,8 +11,6 @@ I'm currently learning C#<br>Intern developer @ Year 3 Student @ Middlesex Unive
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
